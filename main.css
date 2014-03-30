@@ -11,3 +11,26 @@ p {
     line-height: 25px;
 }
 
+
+.customjumbo {
+	background-image: url('../img/sunrise.jpg');
+}
+
+.newnavbar {
+	background-color: #C3BBB8;
+}
+
+.newbut {
+	background-color: #C3BBB8;
+}
+
+.newer {
+	background-color: #FFFFFF;
+}
+
+.newcontainer {
+	min-width: 781px;
+	max-width: 992px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
